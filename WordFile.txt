@@ -1,0 +1,6 @@
+This is a silly file that we will use to
+check our word count in a file program. It
+is short enough to count the words yourself,
+if you want to do just that. The students' solution
+needs to handle punctuation! That is why we will
+do something interesting.
